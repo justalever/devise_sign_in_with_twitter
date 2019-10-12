@@ -1,3 +1,5 @@
+![https://i.imgur.com/NEIfRhY.jpg](https://i.imgur.com/NEIfRhY.jpg)
+
 # How to Sign in with Twitter using Devise, Omniauth, and Ruby on Rails
 
 This is a quick guide on extending Devise to use an omniauth strategy using Twitter. 
