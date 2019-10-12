@@ -1,24 +1,5 @@
-# README
+# How to Sign in with Twitter using Devise, Omniauth, and Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a quick guide on extending Devise to use an omniauth strategy using Twitter. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Read/Watch the tutorial here: [https://web-crunch.com/sign-in-with-twitter-using-devise-omniauth-ruby-on-rails](https://web-crunch.com/sign-in-with-twitter-using-devise-omniauth-ruby-on-rails)
